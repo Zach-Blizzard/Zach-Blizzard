@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Zach-Blizzard
-- 🌱 I’m currently learning HTML, CSS, Javascript, React, and Python
+- 🌱 I’m currently learning HTML, CSS, Javascript, React, node.js, and Python
+- 💻 I want to be a full stack developer
 - 📫 How to reach me https://www.linkedin.com/in/zach-blizzard-698165182/
 
 <!---
